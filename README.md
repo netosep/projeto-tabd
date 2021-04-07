@@ -5,7 +5,7 @@
 em Banco de Dados do curso de Análise e Desenvolvimento de Sistemas - IFBaiano Campus Guanambi.</br></br>
 O intuito do projeto era criar um banco de dados relacional com um modelo MER para uma loja de artigos para o lar contendo: Triggers, Procedures e Functions.</p>
 
-<img src="https://github.com/net0xy/projeto-tabd/blob/main/public/img/diagram.svg">
+<img src="https://github.com/net0xy/projeto-tabd/blob/main/public/img/diagram.jpg">
 
 <table align="center">
     <tr>
