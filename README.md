@@ -15,27 +15,27 @@ O intuito do projeto era criar um banco de dados relacional com um modelo MER pa
     </tr>
     <tr >
         <td>
-            <a href="https://github.com/net0xy">
+            <a target="_blank" href="https://github.com/net0xy">
                 <img src="https://github.com/net0xy.png?size=70">
             </a>
         </td>
         <td>
-            <a href="https://github.com/cleitondcarmo">
+            <a target="_blank" href="https://github.com/cleitondcarmo">
                 <img src="https://github.com/cleitondcarmo.png?size=70">
             </a>
         </td>
         <td>
-            <a href="https://github.com/fcnando45">
+            <a target="_blank" href="https://github.com/fcnando45">
                 <img src="https://github.com/fcnando45.png?size=70">
             </a>
         </td>
         <td>
-            <a href="https://github.com/lauf8">
+            <a target="_blank" href="https://github.com/lauf8">
                 <img src="https://github.com/lauf8.png?size=70">
             </a>
         </td>
         <td>
-            <a href="https://github.com/JacoRochadev">
+            <a target="_blank" href="https://github.com/JacoRochadev">
                 <img src="https://github.com/JacoRochadev.png?size=70">
             </a>
         </td>
