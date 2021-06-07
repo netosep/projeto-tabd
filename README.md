@@ -16,7 +16,7 @@ O intuito do projeto era criar um banco de dados relacional com um modelo MER pa
     <tr >
         <td>
             <a target="_blank" href="https://github.com/net0xy">
-                <img src="https://github.com/net0xy.png?size=70">
+                <img src="https://github.com/netosep.png?size=70">
             </a>
         </td>
         <td>
